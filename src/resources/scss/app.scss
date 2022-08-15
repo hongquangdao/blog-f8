@@ -1,0 +1,22 @@
+@import 'variables';
+
+.test {
+    font-size: 1rem;
+}
+
+.body {
+    margin: 0px;
+    padding: 10px;
+}
+
+h1 {
+    color: $red-color;
+}
+
+h3 {
+    color: $blue-color
+}
+
+h4 {
+    color: grey
+}
